@@ -1,1 +1,5 @@
-<meta http-equiv="refresh" content="0; url=template/index.html">
+# PayDay Website
+--------------------------------------
+## Georgia Tech Boot Camp Project
+
+Live Demo: https://richardhkim.github.io/PayDay-Website/
